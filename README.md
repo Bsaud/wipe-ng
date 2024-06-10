@@ -3,8 +3,6 @@ A **DoD 5220.22-M Standard Compliant** Anti-Forensic Storage Sanitization Tool
 
 ## How to use:
 
-Install Physical Volume Tool:
-
     sudo apt install pv
     ## changing file permission
     chmod +x wipe-ng.sh
